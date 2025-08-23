@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Khaled
 
-<!--
-**mohamedkh404/mohamedkh404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Engineering student specializing in **Mechatronics**.  
+💻 Passionate about **Python, AI, Web Development, and Freelancing**.  
+🚀 My goal: build real-world projects, learn deeply, and achieve $10k+ before 2026.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- **Languages:** Python, JavaScript, HTML, CSS, C , c++  
+- **Frameworks & Libraries:** Flask, React, OpenCV, TensorFlow  
+- **Databases:** SQLite, MySQL  
+- **Other Tools:** Git, GitHub, Linux, VS Code  
+
+---
+
+## 📂 Featured Projects
+🔹 [Face Recognition Attendance System](https://github.com/mohamedkh404/face-recognition-attendance)  
+🔹 [Task Manager Web App](https://github.com/mohamedkh404/task-manager-webapp)  
+🔹 [E-commerce with Recommender System](https://github.com/mohamedkh404/ecommerce-recommender)  
+🔹 [AI Resume Analyzer](https://github.com/mohamedkh404/ai-resume-analyzer)  
+🔹 [AI Personal Assistant](https://github.com/mohamedkh404/ai-personal-assistant)  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [mohamedkh404](https://github.com/mohamedkh404)    
+- Email: xmohamedddd.khaleddddx@gmail.com  
+
+---
+
+⭐️ "Code, Learn, Build, Repeat!"
