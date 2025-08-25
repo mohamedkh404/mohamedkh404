@@ -15,7 +15,6 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [Face Recognition Attendance System](https://github.com/mohamedkh404/face-recognition-attendance)  
 🔹 [Task Manager Web App](https://github.com/mohamedkh404/task-manager-webapp)  
 🔹 [E-commerce with Recommender System](https://github.com/mohamedkh404/ecommerce-recommender)  
 🔹 [AI Resume Analyzer](https://github.com/mohamedkh404/ai-resume-analyzer)  
